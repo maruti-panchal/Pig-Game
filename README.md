@@ -2,6 +2,13 @@
 
 🎲 Screenshots
 
+![11](https://github.com/maruti-panchal/Pig-Game/assets/112648935/6d9bdd93-7511-44ee-aeb9-cdf2beb80c79)
+
+
+![12](https://github.com/maruti-panchal/Pig-Game/assets/112648935/b4cb0fa5-b212-413f-a3cf-dfe08235e56c)
+
+
+
 Welcome to the Pig Game, a simple and fun dice game for two players.
 
 ## 🎮 How to Play
