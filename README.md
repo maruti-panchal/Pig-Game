@@ -25,6 +25,6 @@ Welcome to the Pig Game, a simple and fun dice game for two players.
    git clone https://https://github.com/maruti-panchal/Pig-Game.git
 
 🛠️ Technologies Used
-HTML
-CSS
-JavaScript
+1.   HTML
+2.   CSS
+3.   JavaScript
